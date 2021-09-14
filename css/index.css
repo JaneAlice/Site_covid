@@ -1,0 +1,355 @@
+.bg-azul {
+    background-color: #00132b;
+}
+
+.bg-vermelho {
+    background-color: #ed242e;
+}
+
+.bg-preto {
+    background-color: #111111;
+}
+
+.cor-azul {
+    color: #00132b;
+}
+
+.link-inicio {
+    text-decoration: none !important;
+    margin: 18px;
+    font-size: 18px;
+}
+
+.link-inicio:hover {
+    color: #00132b !important;
+}
+
+.icone-inicio {
+    padding-top: 35px;
+    color: white;
+    cursor: pointer;
+}
+
+.imagem-inicio {
+    position: absolute!important;
+    top: 55px;
+    left: 44.5%;
+}
+
+.h-88 {
+    height: 88px;
+}
+
+.h-450 {
+    height: 450px;
+}
+
+.h-500 {
+    height: 500px;
+}
+
+.h-585 {
+    height: 585px;
+}
+
+.h-600 {
+    height: 600px;
+}
+
+.bg-corona {
+    background-image: url(https://technext.github.io/covido/images/banner.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.fonte-17 {
+    font-size: 17px;
+}
+
+.fonte-80 {
+    font-size: 80px;
+}
+
+.botao-carrossel {
+    background-color: white;
+    color: #00132b;
+    border-radius: 0px !important;
+    width: 190px;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 40px;
+    margin-right: 15px;
+}
+
+.botao-carrossel:hover {
+    color: white;
+    background-color: #ed242e;
+}
+
+.texto-carrossel {
+    padding-top: 120px;
+    padding-left: 170px;
+    font-weight: bold;
+}
+
+.carousel-control-prev-icon {
+    background-image: unset !important;
+}
+
+.carousel-control-next-icon {
+    background-image: unset !important;
+}
+
+.icones-slide-show {
+    background-color: #ed242e;
+    width: 90px;
+    height: 90px;
+    border-radius: 100%;
+    font-size: 35px;
+    opacity: 1 !important;
+    margin-top: 200px;
+    padding-bottom: 25px;
+}
+
+.icones-slide-show:hover {
+    background-color: white;
+    color: #ed242e;
+}
+
+.texto-titulo {
+    color: #00132b;
+    font-size: 2.6em;
+}
+
+.texto-descricao {
+    color:#00132b;
+    font-size: 1.2em;
+}
+
+.divisor {
+    background-color: #ed242e;
+    width: 90px;
+    height: 9px;
+    border-radius: 20px;
+    margin-bottom: 26px;
+}
+
+.btn-padrao {
+    background-color: #00132b;
+    color: white;
+    border-radius: 0px !important;
+    height: 75px;
+    width: 275px;
+    font-weight: bold;
+}
+.btn-padrao:hover {
+    background-color: #ed242e !important;
+}
+
+.imagem-virus {
+    background-image: url('https://technext.github.io/covido/images/about.png');
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.box-sobre {
+    height: 585px;
+    border-radius: 80px;
+    padding: 65px;
+    background-color: white;
+    position: absolute;
+    top: -131px;
+}
+
+.box-sobre-about {
+    height: 585px;
+    border-radius: 80px;
+    padding: 65px;
+    background-color: white;
+}
+
+.link-rodape {
+    line-height: 30px;
+    text-decoration: none !important;
+}
+
+.link-rodape:hover {
+    color: #ed242e !important;
+}
+
+.div-linha {
+    background-color: #d1d1d1;
+    height: 1px;
+}
+
+.icone-rodape {
+    font-size: 14px;
+    color: white;
+    margin-right: 5px;
+}
+
+.icone-rodape:hover {
+    color: #ed242e;
+}
+
+.box-circular {
+    border-radius: 50px;
+    background-image: url(https://technext.github.io/covido/images/project.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 600px;
+    border-radius: 168px;
+}
+
+.card-corona {
+    height: 566px; 
+    box-shadow: 3px 0 62px rgba(0, 0, 0, 0.323);
+    padding: 25px;
+    margin-left: 20px;
+}
+
+.bg-card-1 {
+    background-image: url(https://technext.github.io/covido/images/cases1.png);
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 198px;
+}
+
+.bg-card-2 {
+    background-image: url(https://technext.github.io/covido/images/cases2.png);
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 198px;
+}
+
+.bg-card-3 {
+    background-image: url(https://technext.github.io/covido/images/cases3.png);
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 198px;
+}
+
+.card {
+    border-radius: none !important;
+    border: none !important;
+}
+
+.card-body {
+    line-height: 28px;
+    font-size: 15px;
+}
+
+.botao-menor {
+    background-color: #00132b;
+    color: white;
+    border-radius: 0px !important;
+    width: 180px;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 85px;
+    margin-right: 15px;
+}
+
+.botao-menor:hover {
+    background-color: #ed242e;
+}
+
+.box-doutor {
+    height: 410px;
+    padding-top: 80px;
+    padding-left: 30px;
+    padding-right: 30px;
+    box-shadow: 3px 0 62px rgba(0, 0, 0, 0.323);
+    border-radius: 12px;
+    margin-top: 90px;
+}
+
+.texto-doutor {
+    line-height: 30px;
+    font-size: 16px;
+}
+
+.imagem-doutor {
+    border-radius: 100%;
+    box-shadow: 3px 0 62px rgba(0, 0, 0, 0.323);
+    position: absolute;
+    top: -53px;
+    left: 198px;
+}
+
+.bg-subscribe {
+    background-image: url(https://technext.github.io/covido/images/ever_bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 360px;
+    margin-bottom: -10px;
+}
+
+.email-subscribe {
+    width: 100%;
+    background: transparent;
+    border-radius: 55px;
+    height: 87px;
+    border: 1px solid #ced4da;
+    padding: 30px;
+    color: white !important;
+    font-size: 20px;
+    margin-top: 80px;
+}
+
+.botao-subscribe {
+    background-color: #00132b;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    height: 82px;
+    width: 400px;
+    border-radius: 50px;
+    margin-top: 35px;
+}
+
+.botao-subscribe:hover {
+    background-color: #ed242e;
+}
+
+.imagem-virus-cases {
+    position: absolute;
+    left: 158px;
+    bottom: -40px;
+}
+
+.formulario-contato {
+    width: 100%;
+    padding: 18px;
+    font-size: 18px;
+    border: 2px solid #9d9d9c;
+    color: #a3a3a2;
+    margin-bottom: 15px;
+}
+
+.btn-contato {
+    background-color: #2b2b2b;
+    height: 77px;
+    width: 200px;
+    color: white;
+    font-weight: bold;
+    border-radius: unset !important;
+    margin-bottom: 40px;
+}
+
+.btn-contato:hover {
+    background-color: #ed242e;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+}
